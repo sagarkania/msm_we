@@ -3,7 +3,6 @@ msm_we
 
 * Authors: John Russo, Sagar Kania, Jeremy Copperman, Daniel Zuckerman
 * Free software: MIT license
-* Documentation: https://msm-we.readthedocs.io .
 
 Background
 ----------
