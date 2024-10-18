@@ -21,6 +21,10 @@ Features
 * WESTPA plugins to automate haMSM construction
 * WESTPA plugin to automate bin+allocation optimization
 
+Example Usage and Analysis with msm_we Package
+----------------------------------------------
+The example folder contains a demonstration of how to use the msm_we package. The Jupyter notebook, hamsm_construction.ipynb, illustrates how to build the model using WE data stored in the file tests/reference/1000ns_ntl9/west.h5. Additionally, the analysis.ipynb notebook provides examples of various analyses performed on the built model.
+
 
 Known Issues
 ------------
