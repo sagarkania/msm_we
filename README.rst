@@ -10,10 +10,7 @@ Weighted ensemble data produced from simulations with recycling boundary conditi
 ensemble. This means that a history label can be assigned to every trajectory, and an haMSM can be constructed.
 This code is based on the methods described in the paper:
 
-Accelerated Estimation of Long-Timescale Kinetics from Weighted Ensemble Simulation via Non-Markovian “Microbin” Analysis
-Author(s): Jeremy Copperman and Daniel M. Zuckerman
-Journal: JCTC, 2020, 16(11). [https://pubs.acs.org/doi/10.1021/acs.jctc.0c00273]
-Please cite this paper if you use this package in your work.
+Accelerated Estimation of Long-Timescale Kinetics from Weighted Ensemble Simulation via Non-Markovian “Microbin” Analysis. Jeremy Copperman and Daniel M. Zuckerman. JCTC, 2020, 16(11)[https://pubs.acs.org/doi/10.1021/acs.jctc.0c00273]. Please cite this paper if you use this package in your work.
 
 Features
 --------
